@@ -1,7 +1,7 @@
 {
-   "name": "dashui-tailwindcss",
+   "name": "coretail",
    "version": "1.0.0",
-   "description": "dashui-tailwindcss",
+   "description": "coretail",
    "main": "gulpfile.js",
    "scripts": {
       "dev": "gulp",
